@@ -1,0 +1,60 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.minorlifestyle.minorplus.dev",
+      "sha256_cert_fingerprints": [
+        "3F:A8:3C:B6:B3:A3:4B:A4:99:60:9A:A3:68:BA:E6:62:D1:E6:AE:9D:21:D8:C2:35:95:95:6F:D7:2B:B8:99:02",
+        "ED:27:5D:F0:B8:3B:4D:37:C2:0A:50:9A:4D:86:62:5B:51:EF:F5:E7:0B:A6:15:87:C0:D2:DF:9D:5A:9B:ED:BF",
+        "1D:9F:5A:97:33:C8:F3:D8:F8:36:EF:AB:8C:FB:65:75:92:70:E4:12:B1:39:79:43:BD:AA:C5:8C:EC:DC:FA:65",
+        "A0:C1:3D:5D:F4:F5:BB:0C:DB:7B:78:EE:A5:09:90:87:62:73:62:D9:D9:A3:EF:A1:6E:9B:64:6A:23:0F:6D:43"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.minorlifestyle.minorplus",
+      "sha256_cert_fingerprints": [
+        "BE:D0:14:99:70:7C:70:49:B2:39:BD:38:A2:4B:C0:67:FC:70:AF:15:26:6C:83:18:D4:53:B2:79:45:07:A2:DE",
+        "A0:C1:3D:5D:F4:F5:BB:0C:DB:7B:78:EE:A5:09:90:87:62:73:62:D9:D9:A3:EF:A1:6E:9B:64:6A:23:0F:6D:43"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.minorlifestyle.minorplus.sit",
+      "sha256_cert_fingerprints": [
+        "3F:A8:3C:B6:B3:A3:4B:A4:99:60:9A:A3:68:BA:E6:62:D1:E6:AE:9D:21:D8:C2:35:95:95:6F:D7:2B:B8:99:02",
+        "ED:27:5D:F0:B8:3B:4D:37:C2:0A:50:9A:4D:86:62:5B:51:EF:F5:E7:0B:A6:15:87:C0:D2:DF:9D:5A:9B:ED:BF",
+        "1D:9F:5A:97:33:C8:F3:D8:F8:36:EF:AB:8C:FB:65:75:92:70:E4:12:B1:39:79:43:BD:AA:C5:8C:EC:DC:FA:65",
+        "A0:C1:3D:5D:F4:F5:BB:0C:DB:7B:78:EE:A5:09:90:87:62:73:62:D9:D9:A3:EF:A1:6E:9B:64:6A:23:0F:6D:43"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.minorlifestyle.minorplus.uat",
+      "sha256_cert_fingerprints": [
+        "3F:A8:3C:B6:B3:A3:4B:A4:99:60:9A:A3:68:BA:E6:62:D1:E6:AE:9D:21:D8:C2:35:95:95:6F:D7:2B:B8:99:02",
+        "ED:27:5D:F0:B8:3B:4D:37:C2:0A:50:9A:4D:86:62:5B:51:EF:F5:E7:0B:A6:15:87:C0:D2:DF:9D:5A:9B:ED:BF",
+        "1D:9F:5A:97:33:C8:F3:D8:F8:36:EF:AB:8C:FB:65:75:92:70:E4:12:B1:39:79:43:BD:AA:C5:8C:EC:DC:FA:65",
+        "A0:C1:3D:5D:F4:F5:BB:0C:DB:7B:78:EE:A5:09:90:87:62:73:62:D9:D9:A3:EF:A1:6E:9B:64:6A:23:0F:6D:43"
+      ]
+    }
+  }
+]

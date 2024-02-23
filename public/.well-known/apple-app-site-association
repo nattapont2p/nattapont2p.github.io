@@ -1,0 +1,25 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appIDs": [ 
+          "WT6JFXA62Z.com.minorlifestyle.minorplus-dev", 
+          "WT6JFXA62Z.com.minorlifestyle.minorplus-sit",
+          "WT6JFXA62Z.com.minorlifestyle.minorplus-uat",
+          "WT6JFXA62Z.com.minorlifestyle.minorplus"
+        ],
+        "components": [
+          {
+            "/": "*"
+          }
+        ]
+      }
+    ]
+  },
+  "webcredentials": {
+        "apps": [
+            "WT6JFXA62Z.com.minorlifestyle.minorplus-uat"
+        ]
+    }
+}
